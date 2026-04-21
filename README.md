@@ -1,6 +1,6 @@
 <div align="center">
 
-![Secure Dev Lab Logo](./internship-assets/photo_2026-04-21_19-35-34/jpg)
+![Secure Dev Lab Logo](./internship-assets/photo_2026-04-21_19-35-34.jpg)
 
 # 🛡️ Ethical Hacking Internship
 
