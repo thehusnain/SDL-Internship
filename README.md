@@ -74,23 +74,35 @@ This repository is a compact record of the internship journey at Secure Dev Lab.
 
 <table>
 	<tr>
-		<td align="center" valign="top" style="padding:12px; border:1px solid #263041; border-radius:12px;">
-			<strong>Week 1</strong><br/><br/>
-			<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7452397121363943424?collapsed=1" height="320" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+		<td align="center" valign="top" width="50%" style="padding:16px; border:1px solid #263041; border-radius:12px;">
+			<strong>Week 1</strong><br/>
+			<small>Lab setup and target enumeration</small><br/><br/>
+			<a href="https://www.linkedin.com/feed/update/urn:li:ugcPost:7452397121363943424" target="_blank">
+				<img src="https://img.shields.io/badge/View%20LinkedIn%20Post-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Week 1 LinkedIn post" />
+			</a>
 		</td>
-		<td align="center" valign="top" style="padding:12px; border:1px solid #263041; border-radius:12px;">
-			<strong>Week 2</strong><br/><br/>
-			<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7456240338182230016?collapsed=1" height="320" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+		<td align="center" valign="top" width="50%" style="padding:16px; border:1px solid #263041; border-radius:12px;">
+			<strong>Week 2</strong><br/>
+			<small>Web mapping and request discovery</small><br/><br/>
+			<a href="https://www.linkedin.com/feed/update/urn:li:ugcPost:7456240338182230016" target="_blank">
+				<img src="https://img.shields.io/badge/View%20LinkedIn%20Post-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Week 2 LinkedIn post" />
+			</a>
 		</td>
 	</tr>
 	<tr>
-		<td align="center" valign="top" style="padding:12px; border:1px solid #263041; border-radius:12px;">
-			<strong>Week 3</strong><br/><br/>
-			<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7458528165871677440?collapsed=1" height="320" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+		<td align="center" valign="top" width="50%" style="padding:16px; border:1px solid #263041; border-radius:12px;">
+			<strong>Week 3</strong><br/>
+			<small>Web vulnerability validation</small><br/><br/>
+			<a href="https://www.linkedin.com/feed/update/urn:li:ugcPost:7458528165871677440" target="_blank">
+				<img src="https://img.shields.io/badge/View%20LinkedIn%20Post-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Week 3 LinkedIn post" />
+			</a>
 		</td>
-		<td align="center" valign="top" style="padding:12px; border:1px solid #263041; border-radius:12px;">
-			<strong>Week 4</strong><br/><br/>
-			<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7461130145781964800?collapsed=1" height="320" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+		<td align="center" valign="top" width="50%" style="padding:16px; border:1px solid #263041; border-radius:12px;">
+			<strong>Week 4</strong><br/>
+			<small>Mini assessment and reporting</small><br/><br/>
+			<a href="https://www.linkedin.com/feed/update/urn:li:ugcPost:7461130145781964800" target="_blank">
+				<img src="https://img.shields.io/badge/View%20LinkedIn%20Post-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Week 4 LinkedIn post" />
+			</a>
 		</td>
 	</tr>
 </table>
