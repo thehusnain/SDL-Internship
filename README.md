@@ -1,23 +1,5 @@
 <div align="center">
 
-![Secure Dev Lab Logo](./internship-assets/photo_2026-04-21_19-35-34.jpg)
-
-# 🛡️ Ethical Hacking Internship
-
-## Secure Dev Lab (SDL) – One Month Journey
-
-**Intern:** Husnain Fiaz  
-**Track:** Ethical Hacking  
-**Duration:** 1 Month  
-**Instructor:** Muhammad Saad Rajput  
-**CEO:** Talha – Secure Dev Lab
-
-</div>
-
----
-
-<div align="center">
-
 ![Secure Dev Lab](./internship-assets/photo_2026-04-21_19-35-34.jpg)
 
 # SECURE DEV LAB | ETHICAL HACKING INTERNSHIP
@@ -42,7 +24,7 @@ Cyber notes from a one-month hands-on internship in a controlled lab.
 This repository is a compact record of the internship journey at Secure Dev Lab. The work focused on reconnaissance, web mapping, vulnerability validation, and reporting inside a safe lab environment.
 
 ---
-
+<div align="center">
 ## Stack Cards
 
 <table>
@@ -59,6 +41,7 @@ This repository is a compact record of the internship journey at Secure Dev Lab.
 		<td align="center"><a href="https://www.wireshark.org/" target="_blank"><img src="https://img.shields.io/badge/Reporting%20%26%20Analysis-1A1F2B?style=for-the-badge&logo=googledocs&logoColor=7CFF6B" alt="Reporting" /></a><br/>Notes and findings</td>
 	</tr>
 </table>
+</div>
 
 ---
 
