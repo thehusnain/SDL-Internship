@@ -24,8 +24,9 @@ Cyber notes from a one-month hands-on internship in a controlled lab.
 This repository is a compact record of the internship journey at Secure Dev Lab. The work focused on reconnaissance, web mapping, vulnerability validation, and reporting inside a safe lab environment.
 
 ---
-<div align="center">
+
 ## Stack Cards
+<div align="center">
 
 <table>
 	<tr>
