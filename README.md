@@ -16,54 +16,78 @@
 
 ---
 
-## 📖 About This Internship
+<div align="center">
 
-This repository documents my one-month ethical hacking internship at **Secure Dev Lab (SDL)** . Throughout this journey, I am performing hands-on penetration testing tasks in a controlled lab environment, including network reconnaissance, vulnerability assessment, exploitation, and reporting.
+![Secure Dev Lab](./internship-assets/photo_2026-04-21_19-35-34.jpg)
 
-The goal is to develop real-world cybersecurity skills while maintaining professional documentation standards.
+# SECURE DEV LAB | ETHICAL HACKING INTERNSHIP
 
----
+Cyber notes from a one-month hands-on internship in a controlled lab.
 
-## 🛠️ Tools I'm Using
+**Intern:** Husnain Fiaz  
+**Track:** Ethical Hacking  
+**Duration:** 1 Month  
+**Instructor:** Muhammad Saad Rajput  
+**CEO:** Talha, Secure Dev Lab
 
-- **Kali Linux** – Attacking machine
-- **Metasploitable 2** – Vulnerable target
-- **VirtualBox** – Virtualization
-- **Nmap** – Network scanning
-- **Metasploit** – Exploitation framework
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thehusnainfiaz/)
+[![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thehusnain)
 
----
-
-## 🔐 What I'm Learning
-
-- Every open port increases the attack surface
-- Old protocols like Telnet send passwords in plain text
-- One weak service can lead to full system takeover
-- Documentation is a critical skill in cybersecurity
+</div>
 
 ---
 
-## Acknowledgments
+## Mission Brief
 
-Special thanks to:
-
-- **Talha (CEO, Secure Dev Lab)** – For this amazing learning opportunity
-- **Muhammad Saad Rajput** – For expert guidance and support
-- **Secure Dev Lab (SDL)** – For building future cybersecurity professionals
+This repository is a compact record of the internship journey at Secure Dev Lab. The work focused on reconnaissance, web mapping, vulnerability validation, and reporting inside a safe lab environment.
 
 ---
 
-## 📬 Connect With Me
+## Stack Cards
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thehusnainfiaz/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thehusnain)
+<table>
+	<tr>
+		<td align="center"><a href="https://www.kali.org/" target="_blank"><img src="https://img.shields.io/badge/Kali%20Linux-1A1F2B?style=for-the-badge&logo=kalilinux&logoColor=00FF9A" alt="Kali Linux" /></a><br/>Attacking platform</td>
+		<td align="center"><a href="https://www.virtualbox.org/" target="_blank"><img src="https://img.shields.io/badge/VirtualBox-1A1F2B?style=for-the-badge&logo=virtualbox&logoColor=FFB000" alt="VirtualBox" /></a><br/>Lab virtualization</td>
+	</tr>
+	<tr>
+		<td align="center"><a href="https://nmap.org/" target="_blank"><img src="https://img.shields.io/badge/Nmap-1A1F2B?style=for-the-badge&logo=nmap&logoColor=00D1FF" alt="Nmap" /></a><br/>Port and service discovery</td>
+		<td align="center"><a href="https://www.metasploit.com/" target="_blank"><img src="https://img.shields.io/badge/Metasploit-1A1F2B?style=for-the-badge&logo=metasploit&logoColor=FF5C5C" alt="Metasploit" /></a><br/>Exploitation framework</td>
+	</tr>
+	<tr>
+		<td align="center"><a href="https://sourceforge.net/projects/metasploitable/" target="_blank"><img src="https://img.shields.io/badge/Metasploitable%202-1A1F2B?style=for-the-badge&logoColor=FFFFFF" alt="Metasploitable 2" /></a><br/>Vulnerable target VM</td>
+		<td align="center"><a href="https://www.wireshark.org/" target="_blank"><img src="https://img.shields.io/badge/Reporting%20%26%20Analysis-1A1F2B?style=for-the-badge&logo=googledocs&logoColor=7CFF6B" alt="Reporting" /></a><br/>Notes and findings</td>
+	</tr>
+</table>
 
 ---
+
+## Weekly Tasks
+
+**Week 1** - Lab setup and target enumeration.
+
+**Week 2** - Web application mapping and input discovery.
+
+**Week 3** - Web vulnerability validation and proof-of-concept testing.
+
+**Week 4** - Mini assessment, reporting, and final documentation.
+
+---
+
+## What I Learned
+
+- Small exposures can become full attack paths.
+- Good enumeration matters more than rushing exploitation.
+- Clear reporting is part of the security workflow.
+
+---
+
+## Certificate
 
 <div align="center">
 
-**Following my ethical hacking journey at Secure Dev Lab**
+![Internship Completion Certificate](./Internship%20Completion%20Certificate/secure-dev-labs.jpg)
 
-*April 2026*
+*Internship Completion Certificate*
 
 </div>
