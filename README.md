@@ -1,6 +1,6 @@
 <div align="center">
 
-![Secure Dev Lab](./internship-assets/photo_2026-04-21_19-35-34.jpg)
+![Secure Dev Lab](./assets/photo_2026-04-21_19-35-34.jpg)
 
 # SECURE DEV LAB | ETHICAL HACKING INTERNSHIP
 
@@ -46,6 +46,16 @@ This repository is a compact record of the internship journey at Secure Dev Lab.
 
 ---
 
+## Repository Layout
+
+- [week-01-lab-setup-and-target-enumeration](./week-01-lab-setup-and-target-enumeration) - Environment setup and initial enumeration.
+- [week-02-web-application-mapping-and-input-discovery](./week-02-web-application-mapping-and-input-discovery) - Web mapping and request discovery.
+- [week-03-web-vulnerability-validation](./week-03-web-vulnerability-validation) - Vulnerability validation and testing.
+- [week-04-mini-assessment-and-reporting](./week-04-mini-assessment-and-reporting) - Mini assessment, reporting, and exploit notes.
+- [certificate](./certificate) - Internship completion certificate.
+
+---
+
 ## Weekly Tasks
 
 **Week 1** - Lab setup and target enumeration.
@@ -55,6 +65,37 @@ This repository is a compact record of the internship journey at Secure Dev Lab.
 **Week 3** - Web vulnerability validation and proof-of-concept testing.
 
 **Week 4** - Mini assessment, reporting, and final documentation.
+
+---
+
+## Weekly Posts
+
+<div align="center">
+
+<table>
+	<tr>
+		<td align="center" valign="top" style="padding:12px; border:1px solid #263041; border-radius:12px;">
+			<strong>Week 1</strong><br/><br/>
+			<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7452397121363943424?collapsed=1" height="320" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+		</td>
+		<td align="center" valign="top" style="padding:12px; border:1px solid #263041; border-radius:12px;">
+			<strong>Week 2</strong><br/><br/>
+			<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7456240338182230016?collapsed=1" height="320" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+		</td>
+	</tr>
+	<tr>
+		<td align="center" valign="top" style="padding:12px; border:1px solid #263041; border-radius:12px;">
+			<strong>Week 3</strong><br/><br/>
+			<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7458528165871677440?collapsed=1" height="320" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+		</td>
+		<td align="center" valign="top" style="padding:12px; border:1px solid #263041; border-radius:12px;">
+			<strong>Week 4</strong><br/><br/>
+			<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7461130145781964800?collapsed=1" height="320" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+		</td>
+	</tr>
+</table>
+
+</div>
 
 ---
 
@@ -70,7 +111,13 @@ This repository is a compact record of the internship journey at Secure Dev Lab.
 
 <div align="center">
 
-![Internship Completion Certificate](./Internship%20Completion%20Certificate/secure-dev-labs.jpg)
+<table align="center" border="1" cellpadding="14" cellspacing="0">
+	<tr>
+		<td align="center">
+			<img src="./certificate/secure-dev-labs.jpg" alt="Internship Completion Certificate" width="420" />
+		</td>
+	</tr>
+</table>
 
 *Internship Completion Certificate*
 
